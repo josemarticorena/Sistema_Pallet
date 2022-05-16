@@ -17,4 +17,4 @@ with open('tag_list2.txt', 'w') as f:
         f.write('\n' + t.TagName )
 #print(Alltags.Value)
 for t in Alltags.Value:
-    print(t.TagName)
+    print(t.TagName + ' = ')
