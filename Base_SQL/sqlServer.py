@@ -1,14 +1,10 @@
 import pyodbc
 
-#server = 'PANCHO-PC\SQLEXPRESS'
-#bd = 'DBPAncho'
-#usuario = 'Pancho2'
-#contrasena = '3126'
+server = 'PANCHO-PC\SQLEXPRESS'
+bd = 'DBPAncho'
+usuario = 'Pancho2'
+contrasena = '3126'
 
-server = 'bde.com.gt'
-bd = 'bde_Python'
-usuario = 'bde_Python'
-contrasena = 'DhO1Yx4BUfyN'
 
 
 try:
